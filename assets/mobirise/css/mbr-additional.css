@@ -481,11 +481,23 @@ h6,
 #features3-3 H5 {
   text-align: center;
 }
+#features3-3 H4 {
+  color: #2969b0;
+}
+#features6-a H4 {
+  color: #2969b0;
+}
+#testimonials1-n .mbr-section-title {
+  color: #2969b0;
+}
 #image2-4 DIV {
   text-align: center;
 }
 #form1-6 .form-control-label {
   color: #232323;
+}
+#form1-6 .mbr-section-title {
+  color: #2969b0;
 }
 
 #ext_menu-b .hide-buttons .nav-btn {
