@@ -212,7 +212,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -244,7 +244,7 @@
           },
           "title2": "CollectPlus",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating&nbsp; &nbsp; highly responsive website for you.",
+          "caption2": "One of Bootstrap 4's big points is&nbsp; the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this frameworu.",
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -260,7 +260,7 @@
           },
           "title3": "Thoth",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;easily and freely.",
+          "caption3": "Google has a highly exhaustive list of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using <br>this framewory.",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -276,7 +276,7 @@
           },
           "title4": "Lehalima",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Mobirise gives you the freedom to the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this frameworp.",
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -292,7 +292,7 @@
           },
           "title5": "Delta",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounheader and more.",
           "button5": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
@@ -342,7 +342,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -466,7 +466,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with design world.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -480,7 +480,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties aprojects. Regards.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
