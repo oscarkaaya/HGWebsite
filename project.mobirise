@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HomeGrown",
-    "currentPage": "snapdata.html",
+    "currentPage": "thoth.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -829,6 +829,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -842,7 +845,7 @@
             "bgColor": "#ffffff",
             "showMeta": false
           },
-          "title": "Why Our Cusomers Use Snapdata",
+          "title": "Why Our Clients Use Snapdata",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1012,6 +1015,376 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 HomeGrown."
+        }
+      ]
+    },
+    "thoth.html": {
+      "settings": {
+        "title": "Thoth Meter Reading",
+        "meta_descr": "Mobile  Meter Reading "
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#0f4d6e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0f4d6e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0f4d6e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0f4d6e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#0f4d6e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-773x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://home-grown.co.za",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://home-grown.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;HomeGrown</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">Solutions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-a\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-n\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"http://home-grown.co.za\" target=\"_blank\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#00a885"
+            }
+          },
+          "_anchor": "msg-box5-16",
+          "_params": {
+            "imageSize": "51",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thoth-1400x702.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "THOTH METER READING",
+          "text": "Thoth is a comprehensive Meter Reading Management Suite that makes the task of management of the meter reading operations efficient and effective. It consists of a mobile device front end and a web based management backend.<br>The system allows for the reading of meters on a mobile device in the field with the data being sent to the back end system in real time without the need for meter readers having to physically connect the device to upload readings to the reading device and do the same to download readings when they have completed the reading. This allows for the monitoring of field workers in real time and allowing the managers to respond to efficiency problems as soon as possible.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "Why Our Clients Use Thoth",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features6-18",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Enhanced Route Management",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Simplified route creation and edit<br>Route optimisation algorithms to increase area coverage<br>Creation Of adhock cleanup or audit routes<br>Redistribution of locations between routes<br>Comprehensive reporting of all aspects of the process<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Reduce Operating Costs",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Revenue recovery and protection through optimized reading operation<br>Easy upload of work orders and capture of readings in real time<br>Enables even daily billing exports<br>Easy integration into most municipal finance systems<br>No manual step in creation of work orders or download of results<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Comprehensive Dashboard",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Comprehensive real time management dashboard<br>Complete view to monitor and manage the reading operation across the municipalities territories or contractors<br>Helps identify and correct inefficiencies and irregularities in the meter reading process<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Improved Reading Accuracy",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Advanced back-end validation rule engine<br>On-site meter reading validation based on previous history and location<br>Audit facility to manually verify readings that fail validation<br>GPS, time stamp as well as picture confirmation of actual reading<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title5": "Municipal Data Cleanup",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Allows for the capture of meters not in municipal system<br>Allows for correction of occupant information if diferent<br>Allows for initial Audit Of current meters<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts2-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "348 Rivonia Boulevar Johannesburg",
+              "placeId": "ChIJlcSaELJzlR4RZSu26pqCFd8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n348 Rivonia Boulevard<br>Ground Floor, Block F<br> Edenburg Terraces<br>Rivonia 2128<br>Johannesburg<br>\n<strong>Contacts</strong><br>\nEmail: info@home-grown.co.za<br>\nPhone: +27 11 054 7200<br>\nFax: +1 (0) 000 0000 002",
+          "text2": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,

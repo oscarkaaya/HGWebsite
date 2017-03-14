@@ -576,9 +576,98 @@ h6,
 #header3-12 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-12 H3 {
+  font-size: 32px;
+}
 #features6-y P {
   text-align: left;
 }
 #contacts2-v STRONG {
+  font-size: 18px;
+}
+
+#ext_menu-15 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-15 .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-15 .navbar-toggler {
+  color: #0f4d6e;
+}
+#ext_menu-15 .close-icon::before,
+#ext_menu-15 .close-icon::after {
+  background-color: #0f4d6e;
+}
+#ext_menu-15 .link,
+#ext_menu-15 .dropdown-item {
+  color: #0f4d6e;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-15 .link {
+  font-size: 0.9rem;
+}
+#ext_menu-15 .dropdown-item,
+#ext_menu-15 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#ext_menu-15 .link:hover,
+#ext_menu-15 .dropdown-item:hover,
+#ext_menu-15 .link:focus,
+#ext_menu-15 .dropdown-item:focus {
+  color: #3d8eb9;
+}
+#ext_menu-15 .link[aria-expanded="true"],
+#ext_menu-15 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-15 .nav-dropdown-sm .link:focus,
+#ext_menu-15 .nav-dropdown-sm .link:hover,
+#ext_menu-15 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-15 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-15 .navbar,
+#ext_menu-15 .nav-dropdown-sm,
+#ext_menu-15 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-15 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-15 .bg-color.transparent .link {
+  color: #0f4d6e;
+  transition: none;
+}
+#ext_menu-15 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-15 .bg-color.transparent.opened .link:hover,
+#ext_menu-15 .bg-color.transparent.opened .link:focus {
+  color: #3d8eb9;
+}
+#ext_menu-15 .link[aria-expanded="true"],
+#ext_menu-15 .dropdown-item[aria-expanded="true"] {
+  color: #3d8eb9!important;
+}
+#msg-box5-16 P {
+  color: #000000;
+  text-align: left;
+}
+#msg-box5-16 H3 {
+  color: #00a885;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 H3 {
+  font-size: 32px;
+}
+#features6-18 P {
+  text-align: left;
+}
+#features6-18 H4 {
+  text-align: left;
+}
+#contacts2-19 STRONG {
   font-size: 18px;
 }
