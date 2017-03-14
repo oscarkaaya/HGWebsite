@@ -244,7 +244,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/collectplus-icon-300x300-600x587.png",
+              "src": "@PROJECT_PATH@/assets/images/collectplus-icon-300x300-1-600x587.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -260,7 +260,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cdw-icon-300x300-600x548.png",
+              "src": "@PROJECT_PATH@/assets/images/cdw-icon-300x300-600x576.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -292,7 +292,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/delta-icon-300x300-600x652.png",
+              "src": "@PROJECT_PATH@/assets/images/delta-icon-300x300-600x587.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
