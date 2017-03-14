@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HomeGrown",
-    "currentPage": "thoth.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 60,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -136,7 +136,7 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-text": {
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_anchor": "header2-2",
@@ -183,7 +183,7 @@
             }
           },
           "title": "HOME GROWN",
-          "text": "More Than Just A Competitive Edge.",
+          "text": "The Smarter Utility",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -196,7 +196,11 @@
               "text-align": "center"
             },
             "H4": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "features3-3",
@@ -235,8 +239,8 @@
             }
           },
           "title1": "Snapdata",
-          "subtitle1": "<a href=\"snapdata.html\">Data Collection Made Easy</a>",
-          "caption1": "<a href=\"snapdata.html\">A data capturing tool that uses standard phones to collect data. Paper forms are ...</a>",
+          "subtitle1": "Data Collection Made Easy",
+          "caption1": "<p>SnapData is a application used for online and onsite collection of data. It uses standard mobile phones to collect data <a href=\"snapdata.html\">Read More...</a><a href=\"snapdata.html\"></a> </p>",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -252,7 +256,7 @@
           },
           "title2": "CollectPlus",
           "subtitle2": "Revenue Protection Made Easy",
-          "caption2": "One of Bootstrap 4's big points is&nbsp; the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this frameworu.",
+          "caption2": "<p>CollectPlus is a credit control management system that aids in revenue collection and provides oversight over <a href=\"collectplus.html\">Read More</a></p>",
           "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
@@ -268,7 +272,7 @@
           },
           "title3": "Thoth",
           "subtitle3": "Meter Reading Made Easy",
-          "caption3": "Google has a highly exhaustive list of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using <br>this framewory.",
+          "caption3": "Thoth meter reader gives management real-time oversight on meter reading operations. It provides full proof of execution <a href=\"thoth.html\">Read More</a><br>",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -300,7 +304,7 @@
           },
           "title5": "Delta",
           "subtitle5": "Mobile Payments Made Easy",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounheader and more.",
+          "caption5": "<p>DELTA is an online payment platform, that directly links your personal bank account to your <a href=\"delta.html\">Read More</a><a href=\"http://\"></a><a href=\"http://\"></a></p>",
           "button5": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media6": {
             "image": {
@@ -831,7 +835,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#2969b0"
             }
           },
           "_tags": [
@@ -974,6 +979,9 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "H4": {
+              "color": "#2969b0"
             }
           }
         },
@@ -1188,7 +1196,7 @@
               "size": 0
             }
           },
-          "title": "THOTH METER READING",
+          "title": "THOTH&nbsp;",
           "text": "Thoth is a comprehensive Meter Reading Management Suite that makes the task of management of the meter reading operations efficient and effective. It consists of a mobile device front end and a web based management backend.<br>The system allows for the reading of meters on a mobile device in the field with the data being sent to the back end system in real time without the need for meter readers having to physically connect the device to upload readings to the reading device and do the same to download readings when they have completed the reading. This allows for the monitoring of field workers in real time and allowing the managers to respond to efficiency problems as soon as possible.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1198,7 +1206,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#2969b0"
             }
           },
           "_tags": [
@@ -1212,7 +1221,7 @@
             "bgColor": "#ffffff",
             "showMeta": false
           },
-          "title": "Why Our Clients Use Thoth",
+          "title": "Key Benefits And Features",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1226,7 +1235,8 @@
               "text-align": "left"
             },
             "H4": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             }
           },
           "_anchor": "features6-18",
@@ -1256,7 +1266,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "timer",
+              "name": "map-pin",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -1288,8 +1298,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "search",
-              "family": "MobiriseIcons",
+              "name": "newspaper",
+              "family": "et-line",
               "active": true,
               "link": "",
               "size": 0,
@@ -1320,7 +1330,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "refresh",
+              "name": "cart-full",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -1385,6 +1395,749 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 HomeGrown."
+        }
+      ]
+    },
+    "delta.html": {
+      "settings": {
+        "title": "Delta Payment Platform",
+        "meta_descr": "Mobile payments online debit card payments"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#0f4d6e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0f4d6e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0f4d6e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0f4d6e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1c",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#0f4d6e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-773x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://home-grown.co.za",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://home-grown.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;HomeGrown</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">Solutions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-a\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-n\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"http://home-grown.co.za\" target=\"_blank\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#3d8eb9"
+            }
+          },
+          "_anchor": "msg-box5-1d",
+          "_params": {
+            "imageSize": "51",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/delta-1400x746.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DELTA&nbsp;",
+          "text": "DELTA is an online payment platform, that directly links your personal bank account either credit card or debit card to your municipal account for easy payments and purchases<br><br>It provides a seamless no friction payment experience for customers with multiple channel options<br><br>Now customers can transact with the municipality from the comfort of their own homes, through a mobile app, USSD or website<br><br>Let the cash management headache be a thing of the past<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px",
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "Key Benefits And Features",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "text-align": "left",
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "features6-1f",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "EASY INTEGRATION",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "DELTA is easily configurable for any service provider who requires payment<br>If you have a good or service that needs a seamless payment experience DELTA is your guy<br>Collect your payments quickly and efficiently with DELTA<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "REDUCE PAYMENT FRICTION",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "DELTA reduces the amount of friction experienced when making payments with great user experince for the customer<br>Products and services to be paid for are easily integrated into the system to allow for simple click to pay<br>Increase revenue collection by making it super easy for your customers to pay<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "newspaper",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "MULTIPLE PAYMENT CHANNELS",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "DELTA can be used on multiple payment channels<br>These include USSD, Web, and mobile payments<br>Delta can be added to existing payment channels like POS devices and terminals, Kiosk terminals, ATM's if required<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Improved Reading Accuracy",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Advanced back-end validation rule engine<br>On-site meter reading validation based on previous history and location<br>Audit facility to manually verify readings that fail validation<br>GPS, time stamp as well as picture confirmation of actual reading<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cart-full",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title5": "Municipal Data Cleanup",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Allows for the capture of meters not in municipal system<br>Allows for correction of occupant information if diferent<br>Allows for initial Audit Of current meters<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts2-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "348 Rivonia Boulevar Johannesburg",
+              "placeId": "ChIJlcSaELJzlR4RZSu26pqCFd8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n348 Rivonia Boulevard<br>Ground Floor, Block F<br> Edenburg Terraces<br>Rivonia 2128<br>Johannesburg<br>\n<strong>Contacts</strong><br>\nEmail: info@home-grown.co.za<br>\nPhone: +27 11 054 7200<br>\nFax: +1 (0) 000 0000 002",
+          "text2": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1h",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 HomeGrown."
+        }
+      ]
+    },
+    "collectplus.html": {
+      "settings": {
+        "title": "CollectPlus",
+        "meta_descr": "revenue ccollection revenue protection credit control field work management"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#0f4d6e"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#0f4d6e"
+            },
+            ".link, .dropdown-item": {
+              "color": "#0f4d6e",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#0f4d6e",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1i",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#0f4d6e",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-773x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://home-grown.co.za",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://home-grown.co.za\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">&nbsp;HomeGrown</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\">Solutions</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-a\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-n\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"http://home-grown.co.za\" target=\"_blank\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "msg-box5-1j",
+          "_params": {
+            "imageSize": "59",
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/collectplus-1400x1081.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CollectPlus",
+          "text": "CollectPlus is a credit control management system that oversees technicians in the process of performing credit control related actions (disconnections) for outstanding municipal accounts.<br><br>It provides a state of the art customisable workflow management system that is configured to automatically create credit control related job cards configured according to the municipal by-laws as well as automatically reschedule visits should the action not have been completed.<br><br>It contains a full workforce/contractor management functions to be able to allocate the job cards to and measure performance throughout the day and analyse real-time data.<br><br>CollectPlus includes field work mobile application that includes GPS, time-stamp and picture evidence to show proof of execution.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px",
+              "color": "#2969b0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": false
+          },
+          "title": "Key Features And Benefits",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H4": {
+              "color": "#2969b0"
+            }
+          },
+          "_anchor": "features6-1l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Improved Efficiency",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Ability to capture,transmit and process time-critical data quickly<br>Removes the need for manual interpretation of field data <br>Removes risk of re-doing due to lost paper as it sent in real time<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Reduce Operating Costs",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "It eliminates paper forms<br>Eliminates expensive re-capturing of forms post data collection&nbsp;<br>No logistics costs of delivering boxes of paper to remote locations.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Complete Process Oversight",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "GPS tracking allows oversight of field worker operations in real-time<br>Assign new surveys to in-field field workers<br>Interventions based on needs can be executed instantly<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Improved Data Accuracy",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "GPS, time stamp and photographic evidence of field work visit<br>Survey generator allows for complex built in validation rules for each field<br>Validation rules also run on the mobile device ensuring only valid data is sent back<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "refresh",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": "",
+              "newWindow": false
+            }
+          },
+          "title5": "Flexibility",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Offline Capture Mode when signal is not available and synchronisises when it returns<br>Survey's can be edited and resent in real time<br>Intuitive UI very little training required<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "contacts2-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "348 Rivonia Boulevar Johannesburg",
+              "placeId": "ChIJlcSaELJzlR4RZSu26pqCFd8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n348 Rivonia Boulevard<br>Ground Floor, Block F<br> Edenburg Terraces<br>Rivonia 2128<br>Johannesburg<br>\n<strong>Contacts</strong><br>\nEmail: info@home-grown.co.za<br>\nPhone: +27 11 054 7200<br>\nFax: +1 (0) 000 0000 002",
+          "text2": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
